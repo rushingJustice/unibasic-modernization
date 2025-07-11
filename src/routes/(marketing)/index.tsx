@@ -24,17 +24,11 @@ function RouteComponent() {
                     See how legacy UniBasic code transforms into modern .NET + SQL implementations
                 </p>
 
-                <div className="mt-8 flex gap-4">
+                <div className="mt-8">
                     <Button asChild size="lg" className="gap-2">
                         <Link to="/demo">
                             <Play className="h-4 w-4" />
                             Start Demo
-                        </Link>
-                    </Button>
-                    <Button asChild variant="outline" size="lg" className="gap-2">
-                        <Link to="/docs">
-                            Learn More
-                            <ArrowRight className="h-4 w-4" />
                         </Link>
                     </Button>
                 </div>

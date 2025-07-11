@@ -93,7 +93,6 @@ export function CodeTransformation() {
         <div className="flex justify-center py-2">
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
             <div className="h-px w-8 bg-border" />
-            <span>transforms to</span>
             <div className="h-px w-8 bg-border" />
           </div>
         </div>
